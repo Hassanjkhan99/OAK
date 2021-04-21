@@ -1,0 +1,16 @@
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\compiler.exe
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\compiler.deps.json
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\compiler.runtimeconfig.json
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\compiler.runtimeconfig.dev.json
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\compiler.dll
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\ref\compiler.dll
+C:\Users\840 g3\Documents\compiler\bin\Debug\net5.0\compiler.pdb
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.csprojAssemblyReference.cache
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.AssemblyInfoInputs.cache
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.AssemblyInfo.cs
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.csproj.CoreCompileInputs.cache
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.dll
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\ref\compiler.dll
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.pdb
+C:\Users\840 g3\Documents\compiler\obj\Debug\net5.0\compiler.genruntimeconfig.cache
